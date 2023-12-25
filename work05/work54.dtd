@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT work54 (x1+, x2+)>
+<!ELEMENT x1 EMPTY >
+<!ATTLIST x1 seq CDATA #REQUIRED>
+<!ATTLIST x1 name ID #REQUIRED>
+<!ELEMENT x2 EMPTY >
+<!ATTLIST x2 seq CDATA #REQUIRED>
+<!ATTLIST x2 ref IDREF #REQUIRED>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><books xmlns:xalan="http://xml.apache.org/xslt">
+  <book>3001円の「入門XML」は高い</book>
+  <book>3730円の「やさしいXML」は高い</book>
+  <book>2999円の「独習XML」は 安い</book>
+  <book>2625円の「10日でおぼえるXML入門教室」は安い</book>
+  <book>3000円の「標準XML完全解説」は安い</book>
+</books>

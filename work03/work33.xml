@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>構造化文書処理</title>
+    </head>
+    <body>
+        <h1>課題3-3</h1>
+        <p>相対パスを使ってリンクを配置する</p>
+        <ol>
+            <li>
+                <a href="work31.xml">work31.xml</a>
+            </li>
+            <li>
+                <a href="../work02/work21.xml">work21.xml</a>
+            </li>
+            <li>
+                <a href="TMP/work11.xml">TMP/work11.xml</a>
+            </li>
+        </ol>
+        <address>井宮弘貴(e1b21013)</address>
+    </body>
+</html>

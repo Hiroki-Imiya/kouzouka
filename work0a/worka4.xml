@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><books xmlns:xalan="http://xml.apache.org/xslt">
+  <book>
+    <title>入門XML</title>
+    <price>3001</price>
+  </book>
+  <book>
+    <title>やさしいXML</title>
+    <price>3730</price>
+  </book>
+  <book>
+    <title>独習XML</title>
+    <price>2999</price>
+  </book>
+  <book>
+    <title>10日でおぼえるXML入門教室</title>
+    <price>2625</price>
+  </book>
+  <book>
+    <title>標準XML完全解説</title>
+    <price>3000</price>
+  </book>
+  <average>3071</average>
+</books>

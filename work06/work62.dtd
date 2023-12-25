@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT work62 (x1, x2, x3)>
+<!ELEMENT x1 EMPTY >
+<!ATTLIST x1 aa CDATA "YYY">
+<!ELEMENT x2 EMPTY >
+<!ATTLIST x2 aa (YYY|ZZZ) "ZZZ">
+<!ELEMENT x3 EMPTY>
+<!ATTLIST x3 aa CDATA #FIXED "ZZZ">
