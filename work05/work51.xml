@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE work51 SYSTEM "work51.dtd">
+<work51>
+    <x1 aa="test1" bb="test2">
+        <x2 cc="test3" dd="test4">
+            e1b21013
+        </x2>
+    </x1>
+</work51>

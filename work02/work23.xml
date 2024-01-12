@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>構造化文書処理</title>
+    </head>
+    <body>
+        <h1>課題2-3</h1>
+        <h2>大阪工業大学　枚方キャンパス</h2>
+        <p>枚方キャンパスは、大阪府枚方市にキャンパスがあり、国会議事堂の形をしています。</p>
+        <p>
+            <img alt="枚方キャンパス" src="work23.jpg"/>
+        </p>
+        <address>井宮弘貴(e1b21013)</address>
+    </body>
+</html>

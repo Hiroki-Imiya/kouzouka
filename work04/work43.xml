@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE books [
+<!ELEMENT books (book+) >
+<!ELEMENT book (title,authors,price?,publisher) >
+<!ELEMENT title (#PCDATA) >
+<!ELEMENT authors (author+) >
+<!ELEMENT author (#PCDATA) >
+<!ELEMENT price (#PCDATA) >
+<!ELEMENT publisher (#PCDATA) >
+]>
+<books>
+    <book>
+        <title> やさしい XML</title>
+        <authors>
+            <author> 高橋麻奈 </author>
+        </authors>
+        <price>2600</price>
+        <publisher> ソフトバンク </publisher>
+    </book>
+    <book>
+        <title>XML 完全解説 </title>
+        <authors>
+            <author> 中山幹敏 </author>
+            <author> 奥井康弘 </author>
+        </authors>
+        <publisher> 技術評論社 </publisher>
+    </book>
+    <book>
+        <title> 必修 XML</title>
+        <authors>
+            <author> 加山恵美 </author>
+        </authors>
+        <price>2289</price>
+        <publisher> 技術評論社 </publisher>
+    </book>
+</books>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>構造化文書処理</title>
+    </head>
+    <body>
+        <h1>課題3-4</h1>
+        <h2>大阪工業大学　枚方キャンパス</h2>
+        <p>
+            <a href="https://www.oit.ac.jp/japanese/center/open.html">自習室</a>
+            はいつも解放されており、オンライン授業を受けたり、課題の作成に使えます。
+        </p>
+        <p >
+            <img src="https://sho-ooi.info/work/xml/data/jishuu1.jpg" alt="自習室" />
+        </p>
+        <address>井宮弘貴(e1b21013)</address>
+    </body>
+</html>

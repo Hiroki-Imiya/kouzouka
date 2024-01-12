@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+    <book>
+              <title>入門XML</title>
+              <author>エリック・レイ</author>
+              <price publisher="オライリージャパン">3001</price>
+            <img src="img1.jpg"/>
+    </book>
+    <book>
+              <title>やさしいXML</title>
+              <author>高橋麻奈</author>
+              <price publisher="ソフトバンククリエイティブ">3730</price>
+            <img src="img2.jpg"/>
+    </book>
+    <book>
+              <title>独習XML</title>
+              <author>日向俊二</author>
+              <price publisher="翔泳社">2999</price>
+            <img src="img3.jpg"/>
+    </book>
+    <book>
+              <title>10日でおぼえるXML入門教室</title>
+              <author>山田祥寛</author>
+              <price publisher="翔泳社">2625</price>
+            <img src="img4.jpg"/>
+    </book>
+    <book>
+              <title>標準XML完全解説</title>
+              <author>中山幹敏</author>
+              <price publisher="技術評論社">3000</price>
+            <img src="img5.jpg"/>
+    </book>
+    
+</books>

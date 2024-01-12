@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE work54 SYSTEM "work54.dtd">
+<work54>
+    <x1 seq="1" name="test1" />
+    <x1 seq="2" name="test2" />
+    <x2 seq="3" ref="test2" />
+    <x2 seq="4" ref="test1" />
+    <x2 seq="5" ref="test2" />
+</work54>

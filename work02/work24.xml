@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>構造化文書処理</title>
+    </head>
+    <body>
+        <h1>課題2-4</h1>
+        <p>箇条書きでは、次のような入れ子構造を作ることもできます。</p>
+        <ol>
+            <li>
+                工学部
+                <ol>
+                    <li>機械工学科</li>
+                    <li>建築学科</li>
+                    <li>応用化学科</li>
+                </ol>
+            </li>
+            <li>
+                情報科学部
+                <ol>
+                    <li>情報メディア学科</li>
+                    <li>情報システム学科</li>
+                    <li>データサイエンス学科</li>
+                </ol>
+            </li>
+        </ol>
+        <address>井宮弘貴(e1b21013)</address>
+    </body>
+</html>

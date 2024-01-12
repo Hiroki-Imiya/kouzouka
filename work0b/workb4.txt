@@ -1,0 +1,6 @@
+3001
+3730
+2999
+2625
+3000
+There are 2 texts whose price is greater than 3000.

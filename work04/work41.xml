@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE work41 [
+<!ELEMENT work41 (x1, x2, x3)>
+<!ELEMENT x1 EMPTY>
+<!ELEMENT x2 (#PCDATA)>
+<!ELEMENT x3 (x1)>
+]>
+
+<work41>
+    <x1/>
+    <x2>e1b21013</x2>
+    <x3>
+        <x1/>
+    </x3>
+</work41>

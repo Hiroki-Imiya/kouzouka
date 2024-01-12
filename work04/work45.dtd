@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT work45 (x1, x2, x3, x4)>
+<!ELEMENT x1 (a?, b+) >
+<!ELEMENT x2 (a, (b*, c*)) >
+<!ELEMENT x3 (a, (b, c)+) >
+<!ELEMENT x4 (a | b | c)+ >
+<!ELEMENT a EMPTY >
+<!ELEMENT b EMPTY >
+<!ELEMENT c EMPTY >

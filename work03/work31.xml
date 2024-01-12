@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>構造化文書処理</title>
+    </head>
+    <body>
+        <h1>課題3-1</h1>
+        <table border="1" width="100%">
+            <caption>都道府県の木と花</caption>
+            <tr>
+                <th width="25%">都道府県</th>
+                <th width="35%">木</th>
+                <th width="40%">花</th>
+            </tr>
+            <tr>
+                <td>大阪府</td>
+                <td>いちょう</td>
+                <td>さくらそう・うめ</td>
+            </tr>
+            <tr>
+                <td>京都府</td>
+                <td>北山杉</td>
+                <td>しだれ桜・なでしこ</td>
+            </tr>
+            <tr>
+                <td>兵庫県</td>
+                <td>クスノキ</td>
+                <td>ノジギク</td>
+            </tr>
+        </table>
+        <address>井宮弘貴(e1b21013)</address>
+    </body>
+</html>
