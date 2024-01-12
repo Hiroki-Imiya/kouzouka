@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!ELEMENT work51 (x1)>
-<!ELEMENT x1 (x2) >
-    <!ATTLIST x1 aa CDATA #REQUIRED>
-    <!ATTLIST x1 bb CDATA #REQUIRED>
-    <!ELEMENT x2 (#PCDATA) >
-    <!ATTLIST x2 cc CDATA #REQUIRED
-dd CDATA #REQUIRED >

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!ELEMENT work53 (x1)>
-<!ELEMENT x1 (x2, x3) >
-<!ATTLIST x1 aa (XXX|YYY) "YYY">
-<!ELEMENT x2 EMPTY >
-<!ATTLIST x2 aa CDATA "YYY">
-<!ELEMENT x3 (#PCDATA)>
-<!ATTLIST x3 aa CDATA #FIXED "YYY">
